@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Counts 3 bits. Optional clock divider.
 
 ## How to test
 
-Explain how to use your project
+Two easy steps. One, turn on the power, two, watch it count.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+One clock, one toggle. The output is left at the discretion of the user. Could be, for example a R-2R ladder. or LEDs.
